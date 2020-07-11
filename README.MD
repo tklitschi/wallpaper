@@ -14,10 +14,10 @@ Einige Hintergundbilder 🖼 mit Zitaten, die ich auf meinen Computern durchlauf
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/tklitschi/wallpaper/blob/master/res/vorschau1" alt="Vorschu" width="600" >
+  <img src="https://github.com/tklitschi/wallpaper/blob/master/res/vorschau1.png" alt="Vorschu" width="600" >
 </p>
 <p align="center">
-  <img src="https://github.com/tklitschi/wallpaper/blob/master/res/vorschau2" alt="Vorschu" width="600" >
+  <img src="https://github.com/tklitschi/wallpaper/blob/master/res/vorschau2.png" alt="Vorschu" width="600" >
 </p>
 
 ---
